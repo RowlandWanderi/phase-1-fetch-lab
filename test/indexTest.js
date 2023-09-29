@@ -29,3 +29,7 @@ describe( "index.js", () => {
     } )
   } )
 })
+/* main.innerHTML = `
+<h2> ${book.name} </h2>
+<p id="authors"> Written By: ${book.authors}</p>
+<p id="isbn-number"> International Standard Book Number (ISBN): ${book.isbn}</p> */
